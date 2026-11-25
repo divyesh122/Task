@@ -1,0 +1,5 @@
+git branch
+git merge branchname
+git fetch branchname
+git rebase branchname
+git switch branchname
