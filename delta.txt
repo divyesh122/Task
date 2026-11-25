@@ -1,0 +1,3 @@
+git merge branchname
+2 way merging 
+3 way merging
