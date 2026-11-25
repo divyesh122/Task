@@ -1,0 +1,7 @@
+git init
+git config user.name divyesh
+git config user.email divyeshnune122@gmail.com
+git add .
+git commit -m "c1"
+git push origin master
+git pull origin master
